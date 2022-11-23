@@ -1,0 +1,317 @@
+[
+  {
+    "stacks": {
+      "network": "testnet",
+      "version": 0,
+      "start_block": 81094,
+      "predicate": {
+        "type": "print_event",
+        "rule": {
+          "contract_identifier": "ST395G3354DQ27YKARF2ZQQ6HWBDJ2DR9Q81QXZA6.liquidity-vault-v1-0",
+          "contains": "add-asset-liquidity-vault-v1-0"
+        }
+      },
+      "action": {
+        "http": {
+          "url": "https://zest-protocol-frontend-57gy4re0l-zest-protocol.vercel.app/api/v1/events",
+          "method": "POST",
+          "authorization_header": "Bearer cn389ncoiwuencr"
+        }
+      }
+    }
+  },
+  {
+    "stacks": {
+      "network": "testnet",
+      "version": 0,
+      "start_block": 81094,
+      "predicate": {
+        "type": "print_event",
+        "rule": {
+          "contract_identifier": "ST395G3354DQ27YKARF2ZQQ6HWBDJ2DR9Q81QXZA6.pool-data",
+          "contains": "add-pool-governor"
+        }
+      },
+      "action": {
+        "http": {
+          "url": "https://zest-protocol-frontend-57gy4re0l-zest-protocol.vercel.app/api/v1/events",
+          "method": "POST",
+          "authorization_header": "Bearer cn389ncoiwuencr"
+        }
+      }
+    }
+  },
+  {
+    "stacks": {
+      "network": "testnet",
+      "version": 0,
+      "start_block": 81094,
+      "predicate": {
+        "type": "print_event",
+        "rule": {
+          "contract_identifier": "ST395G3354DQ27YKARF2ZQQ6HWBDJ2DR9Q81QXZA6.coll-vault",
+          "contains": "add-collateral-coll-vault"
+        }
+      },
+      "action": {
+        "http": {
+          "url": "https://zest-protocol-frontend-57gy4re0l-zest-protocol.vercel.app/api/v1/events",
+          "method": "POST",
+          "authorization_header": "Bearer cn389ncoiwuencr"
+        }
+      }
+    }
+  },
+  {
+    "stacks": {
+      "network": "testnet",
+      "version": 0,
+      "start_block": 81094,
+      "predicate": {
+        "type": "print_event",
+        "rule": {
+          "contract_identifier": "ST395G3354DQ27YKARF2ZQQ6HWBDJ2DR9Q81QXZA6.coll-vault",
+          "contains": "remove-collateral-coll-vault"
+        }
+      },
+      "action": {
+        "http": {
+          "url": "https://zest-protocol-frontend-57gy4re0l-zest-protocol.vercel.app/api/v1/events",
+          "method": "POST",
+          "authorization_header": "Bearer cn389ncoiwuencr"
+        }
+      }
+    }
+  },
+  {
+    "stacks": {
+      "network": "testnet",
+      "version": 0,
+      "start_block": 81094,
+      "predicate": {
+        "type": "print_event",
+        "rule": {
+          "contract_identifier": "ST395G3354DQ27YKARF2ZQQ6HWBDJ2DR9Q81QXZA6.coll-vault",
+          "contains": "store-coll-vault"
+        }
+      },
+      "action": {
+        "http": {
+          "url": "https://zest-protocol-frontend-57gy4re0l-zest-protocol.vercel.app/api/v1/events",
+          "method": "POST",
+          "authorization_header": "Bearer cn389ncoiwuencr"
+        }
+      }
+    }
+  },
+  {
+    "stacks": {
+      "network": "testnet",
+      "version": 0,
+      "start_block": 81094,
+      "predicate": {
+        "type": "print_event",
+        "rule": {
+          "contract_identifier": "ST395G3354DQ27YKARF2ZQQ6HWBDJ2DR9Q81QXZA6.cover-pool-data",
+          "contains": "create-pool"
+        }
+      },
+      "action": {
+        "http": {
+          "url": "https://zest-protocol-frontend-57gy4re0l-zest-protocol.vercel.app/api/v1/events",
+          "method": "POST",
+          "authorization_header": "Bearer cn389ncoiwuencr"
+        }
+      }
+    }
+  },
+  {
+    "stacks": {
+      "network": "testnet",
+      "version": 0,
+      "start_block": 81094,
+      "predicate": {
+        "type": "print_event",
+        "rule": {
+          "contract_identifier": "ST395G3354DQ27YKARF2ZQQ6HWBDJ2DR9Q81QXZA6.cover-pool-data",
+          "contains": "set-sent-funds"
+        }
+      },
+      "action": {
+        "http": {
+          "url": "https://zest-protocol-frontend-57gy4re0l-zest-protocol.vercel.app/api/v1/events",
+          "method": "POST",
+          "authorization_header": "Bearer cn389ncoiwuencr"
+        }
+      }
+    }
+  },
+  {
+    "stacks": {
+      "network": "testnet",
+      "version": 0,
+      "start_block": 81094,
+      "predicate": {
+        "type": "print_event",
+        "rule": {
+          "contract_identifier": "ST395G3354DQ27YKARF2ZQQ6HWBDJ2DR9Q81QXZA6.cover-vault",
+          "contains": "add-asset-cover-vault"
+        }
+      },
+      "action": {
+        "http": {
+          "url": "https://zest-protocol-frontend-57gy4re0l-zest-protocol.vercel.app/api/v1/events",
+          "method": "POST",
+          "authorization_header": "Bearer cn389ncoiwuencr"
+        }
+      }
+    }
+  },
+  {
+    "stacks": {
+      "network": "testnet",
+      "version": 0,
+      "start_block": 81094,
+      "predicate": {
+        "type": "print_event",
+        "rule": {
+          "contract_identifier": "ST395G3354DQ27YKARF2ZQQ6HWBDJ2DR9Q81QXZA6.funding-vault",
+          "contains": "add-asset-funding-vault"
+        }
+      },
+      "action": {
+        "http": {
+          "url": "https://zest-protocol-frontend-57gy4re0l-zest-protocol.vercel.app/api/v1/events",
+          "method": "POST",
+          "authorization_header": "Bearer cn389ncoiwuencr"
+        }
+      }
+    }
+  },
+  {
+    "stacks": {
+      "network": "testnet",
+      "version": 0,
+      "start_block": 81094,
+      "predicate": {
+        "type": "print_event",
+        "rule": {
+          "contract_identifier": "ST395G3354DQ27YKARF2ZQQ6HWBDJ2DR9Q81QXZA6.loan-data",
+          "contains": "create-loan"
+        }
+      },
+      "action": {
+        "http": {
+          "url": "https://zest-protocol-frontend-57gy4re0l-zest-protocol.vercel.app/api/v1/events",
+          "method": "POST",
+          "authorization_header": "Bearer cn389ncoiwuencr"
+        }
+      }
+    }
+  },
+  {
+    "stacks": {
+      "network": "testnet",
+      "version": 0,
+      "start_block": 81094,
+      "predicate": {
+        "type": "print_event",
+        "rule": {
+          "contract_identifier": "ST395G3354DQ27YKARF2ZQQ6HWBDJ2DR9Q81QXZA6.pool-data",
+          "contains": "create-liquidity-pool"
+        }
+      },
+      "action": {
+        "http": {
+          "url": "https://zest-protocol-frontend-57gy4re0l-zest-protocol.vercel.app/api/v1/events",
+          "method": "POST",
+          "authorization_header": "Bearer cn389ncoiwuencr"
+        }
+      }
+    }
+  },
+  {
+    "stacks": {
+      "network": "testnet",
+      "version": 0,
+      "start_block": 81094,
+      "predicate": {
+        "type": "print_event",
+        "rule": {
+          "contract_identifier": "ST395G3354DQ27YKARF2ZQQ6HWBDJ2DR9Q81QXZA6.pool-data",
+          "contains": "set-liquidity-pool"
+        }
+      },
+      "action": {
+        "http": {
+          "url": "https://zest-protocol-frontend-57gy4re0l-zest-protocol.vercel.app/api/v1/events",
+          "method": "POST",
+          "authorization_header": "Bearer cn389ncoiwuencr"
+        }
+      }
+    }
+  },
+  {
+    "stacks": {
+      "network": "testnet",
+      "version": 0,
+      "start_block": 81094,
+      "predicate": {
+        "type": "print_event",
+        "rule": {
+          "contract_identifier": "ST395G3354DQ27YKARF2ZQQ6HWBDJ2DR9Q81QXZA6.liquidity-vault-v1-0",
+          "contains": "remove-asset-liquidity-vault-v1-0"
+        }
+      },
+      "action": {
+        "http": {
+          "url": "https://zest-protocol-frontend-57gy4re0l-zest-protocol.vercel.app/api/v1/events",
+          "method": "POST",
+          "authorization_header": "Bearer cn389ncoiwuencr"
+        }
+      }
+    }
+  },
+  {
+    "stacks": {
+      "network": "testnet",
+      "version": 0,
+      "start_block": 81094,
+      "predicate": {
+        "type": "print_event",
+        "rule": {
+          "contract_identifier": "ST395G3354DQ27YKARF2ZQQ6HWBDJ2DR9Q81QXZA6.pool-data",
+          "contains": "remove-pool-governor"
+        }
+      },
+      "action": {
+        "http": {
+          "url": "https://zest-protocol-frontend-57gy4re0l-zest-protocol.vercel.app/api/v1/events",
+          "method": "POST",
+          "authorization_header": "Bearer cn389ncoiwuencr"
+        }
+      }
+    }
+  },
+  {
+    "stacks": {
+      "network": "testnet",
+      "version": 0,
+      "start_block": 81094,
+      "predicate": {
+        "type": "print_event",
+        "rule": {
+          "contract_identifier": "ST395G3354DQ27YKARF2ZQQ6HWBDJ2DR9Q81QXZA6.lp-token",
+          "contains": "sft_mint_lp_token"
+        }
+      },
+      "action": {
+        "http": {
+          "url": "https://zest-protocol-frontend-57gy4re0l-zest-protocol.vercel.app/api/v1/events",
+          "method": "POST",
+          "authorization_header": "Bearer cn389ncoiwuencr"
+        }
+      }
+    }
+  }
+]
