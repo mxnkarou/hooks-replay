@@ -13,7 +13,7 @@
       },
       "action": {
         "http": {
-          "url": "https://zest-protocol-frontend-nrb8290im-zest-protocol.vercel.app/api/v1/events",
+          "url": "https://testnet.zestprotocol.com/api/v1/events",
           "method": "POST",
           "authorization_header": "Bearer cn389ncoiwuencr"
         }
@@ -34,7 +34,7 @@
       },
       "action": {
         "http": {
-          "url": "https://zest-protocol-frontend-nrb8290im-zest-protocol.vercel.app/api/v1/events",
+          "url": "https://testnet.zestprotocol.com/api/v1/events",
           "method": "POST",
           "authorization_header": "Bearer cn389ncoiwuencr"
         }
@@ -55,7 +55,7 @@
       },
       "action": {
         "http": {
-          "url": "https://zest-protocol-frontend-nrb8290im-zest-protocol.vercel.app/api/v1/events",
+          "url": "https://testnet.zestprotocol.com/api/v1/events",
           "method": "POST",
           "authorization_header": "Bearer cn389ncoiwuencr"
         }
@@ -76,7 +76,7 @@
       },
       "action": {
         "http": {
-          "url": "https://zest-protocol-frontend-nrb8290im-zest-protocol.vercel.app/api/v1/events",
+          "url": "https://testnet.zestprotocol.com/api/v1/events",
           "method": "POST",
           "authorization_header": "Bearer cn389ncoiwuencr"
         }
@@ -97,7 +97,7 @@
       },
       "action": {
         "http": {
-          "url": "https://zest-protocol-frontend-nrb8290im-zest-protocol.vercel.app/api/v1/events",
+          "url": "https://testnet.zestprotocol.com/api/v1/events",
           "method": "POST",
           "authorization_header": "Bearer cn389ncoiwuencr"
         }
@@ -118,7 +118,7 @@
       },
       "action": {
         "http": {
-          "url": "https://zest-protocol-frontend-nrb8290im-zest-protocol.vercel.app/api/v1/events",
+          "url": "https://testnet.zestprotocol.com/api/v1/events",
           "method": "POST",
           "authorization_header": "Bearer cn389ncoiwuencr"
         }
@@ -139,7 +139,7 @@
       },
       "action": {
         "http": {
-          "url": "https://zest-protocol-frontend-nrb8290im-zest-protocol.vercel.app/api/v1/events",
+          "url": "https://testnet.zestprotocol.com/api/v1/events",
           "method": "POST",
           "authorization_header": "Bearer cn389ncoiwuencr"
         }
@@ -160,7 +160,7 @@
       },
       "action": {
         "http": {
-          "url": "https://zest-protocol-frontend-nrb8290im-zest-protocol.vercel.app/api/v1/events",
+          "url": "https://testnet.zestprotocol.com/api/v1/events",
           "method": "POST",
           "authorization_header": "Bearer cn389ncoiwuencr"
         }
@@ -181,7 +181,7 @@
       },
       "action": {
         "http": {
-          "url": "https://zest-protocol-frontend-nrb8290im-zest-protocol.vercel.app/api/v1/events",
+          "url": "https://testnet.zestprotocol.com/api/v1/events",
           "method": "POST",
           "authorization_header": "Bearer cn389ncoiwuencr"
         }
@@ -202,7 +202,7 @@
       },
       "action": {
         "http": {
-          "url": "https://zest-protocol-frontend-nrb8290im-zest-protocol.vercel.app/api/v1/events",
+          "url": "https://testnet.zestprotocol.com/api/v1/events",
           "method": "POST",
           "authorization_header": "Bearer cn389ncoiwuencr"
         }
@@ -223,7 +223,7 @@
       },
       "action": {
         "http": {
-          "url": "https://zest-protocol-frontend-nrb8290im-zest-protocol.vercel.app/api/v1/events",
+          "url": "https://testnet.zestprotocol.com/api/v1/events",
           "method": "POST",
           "authorization_header": "Bearer cn389ncoiwuencr"
         }
@@ -244,7 +244,7 @@
       },
       "action": {
         "http": {
-          "url": "https://zest-protocol-frontend-nrb8290im-zest-protocol.vercel.app/api/v1/events",
+          "url": "https://testnet.zestprotocol.com/api/v1/events",
           "method": "POST",
           "authorization_header": "Bearer cn389ncoiwuencr"
         }
@@ -265,7 +265,7 @@
       },
       "action": {
         "http": {
-          "url": "https://zest-protocol-frontend-nrb8290im-zest-protocol.vercel.app/api/v1/events",
+          "url": "https://testnet.zestprotocol.com/api/v1/events",
           "method": "POST",
           "authorization_header": "Bearer cn389ncoiwuencr"
         }
@@ -286,7 +286,7 @@
       },
       "action": {
         "http": {
-          "url": "https://zest-protocol-frontend-nrb8290im-zest-protocol.vercel.app/api/v1/events",
+          "url": "https://testnet.zestprotocol.com/api/v1/events",
           "method": "POST",
           "authorization_header": "Bearer cn389ncoiwuencr"
         }
@@ -307,7 +307,7 @@
       },
       "action": {
         "http": {
-          "url": "https://zest-protocol-frontend-nrb8290im-zest-protocol.vercel.app/api/v1/events",
+          "url": "https://testnet.zestprotocol.com/api/v1/events",
           "method": "POST",
           "authorization_header": "Bearer cn389ncoiwuencr"
         }
@@ -328,7 +328,7 @@
       },
       "action": {
         "http": {
-          "url": "https://zest-protocol-frontend-nrb8290im-zest-protocol.vercel.app/api/v1/events",
+          "url": "https://testnet.zestprotocol.com/api/v1/events",
           "method": "POST",
           "authorization_header": "Bearer cn389ncoiwuencr"
         }
