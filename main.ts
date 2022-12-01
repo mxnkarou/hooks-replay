@@ -7,11 +7,15 @@ const mod = Hooks.map((hook) => {
 });
 
 mod.forEach(async (hook) => {
-  await fetch('http://0.0.0.0:20456/v1/chainhooks', {
+  const res = await fetch('http://oreo-alpha.testnet.hiro.so:20446/v1/chainhooks', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
     },
     body: JSON.stringify(hook),
-  }).then(console.log);
+  });
+
+  if (res.status === 200) {
+    console.log('SUCCESS');
+  }
 });
