@@ -7,6 +7,7 @@ const mod = Hooks.map((hook) => {
 });
 
 mod.forEach(async (hook) => {
+  // http://oreo-alpha.testnet.hiro.so:20446/v1/chainhooks
   const res = await fetch('http://oreo-alpha.testnet.hiro.so:20446/v1/chainhooks', {
     method: 'POST',
     headers: {
